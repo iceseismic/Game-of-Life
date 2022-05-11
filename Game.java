@@ -9,7 +9,7 @@ public class Game
     Scanner keyin = new Scanner(System.in);
     String modeChoice;
     boolean gameModePick=false;
-    boolean offline;
+    boolean offline;     laptop link test
 
     //variables begin/set up gamne
 
@@ -17,7 +17,7 @@ public class Game
     {
         System.out.println("Heeeelloo!.. today, I introduce to you Joel's Game of Life! /n"
             + "This is the run down:\n"
-            + "\n"); Hello
+            + "\n");
 
             
 
