@@ -17,7 +17,7 @@ public class Game
     {
         System.out.println("Heeeelloo!.. today, I introduce to you Joel's Game of Life! /n"
             + "This is the run down:\n"
-            + "\n");
+            + "\n"); Hello
 
             
 
