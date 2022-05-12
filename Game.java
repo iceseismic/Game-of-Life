@@ -9,7 +9,8 @@ public class Game
     Scanner keyin = new Scanner(System.in);
     String modeChoice;
     boolean gameModePick=false;
-    boolean offline;     laptop link test
+    boolean offline;    hello marrison morris
+    
 
     //variables begin/set up gamne
 
