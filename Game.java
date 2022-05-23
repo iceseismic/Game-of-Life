@@ -2,7 +2,7 @@
  * @author (Joel Bannister)
  * @version (10.5.22)
  */
-import java.util.Scanner; //get rid of slashes  at bottom when connected this file to online file
+import java.util.Scanner; 
 public class Game
 {
     //reading input from the user
