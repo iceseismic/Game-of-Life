@@ -15,13 +15,14 @@ public class Game
     boolean board3;
     boolean fileBoard;
 
+
     //variables begin/set up gamne
 
     public Game()
     {
         System.out.println("Heeeelloo!.. today, I introduce to you Joel's Game of Life! /n"
-            + "This is the run down:\n"
-            + "\n"); 
+            + "This is the run down:\n");
+
 
         //Game's rules explanation
         System.out.println("Now, what do you feel like playing? \n"
